@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OPRobalities</string>
+    <string name="defender_rules_display">defender rules</string>
+    <string name="attacker_rules_display">attacker rules</string>
+    <string name="weapon_rules_display">weapon rules</string>
+    <string name="attacks">Number of attacks</string>
+    <string name="quality">Attacker´s quality</string>
+    <string name="shield">Shield</string>
+</resources>
