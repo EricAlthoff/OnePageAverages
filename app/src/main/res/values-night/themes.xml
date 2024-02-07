@@ -1,0 +1,12 @@
+<!-- themes.xml(night) -->
+<resources>
+
+    <style name="Theme.OPRobalities" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize attributes for dark mode -->
+        <item name="colorPrimary">@color/dark_theme_primary_whiteGrey</item>
+        <item name="colorSecondary">@color/dark_theme_secondary_lightGrey</item>
+        <item name="colorTertiary">@color/dark_theme_tertiary_darkGrey</item>
+        <!-- Add other attributes as needed -->
+    </style>
+
+</resources>

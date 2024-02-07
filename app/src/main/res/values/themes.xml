@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- themes.xml -->
 <resources>
 
-    <style name="Theme.OPRobalities" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.OPRobalities" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize attributes for light mode -->
+        <item name="colorPrimary">@color/light_theme_primary_black</item>
+        <item name="colorSecondary">@color/light_theme_secondary_darkGrey</item>
+        <item name="colorTertiary">@color/light_theme_tertiary_grey</item>
+        <!-- Add other attributes as needed -->
+    </style>
+
 </resources>

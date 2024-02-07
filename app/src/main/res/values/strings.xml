@@ -1,9 +1,16 @@
 <resources>
-    <string name="app_name">OPRobalities</string>
+    <string name="app_name">OnePageAverages</string>
     <string name="defender_rules_display">defender rules</string>
     <string name="attacker_rules_display">attacker rules</string>
     <string name="weapon_rules_display">weapon rules</string>
     <string name="attacks">Number of attacks</string>
     <string name="quality">Attacker´s quality</string>
+    <string name="attacker">Attacker</string>
+    <string name="defender">Defender</string>
     <string name="shield">Shield</string>
+    <string name="reset">Reset Inputs</string>
+    <string name="options_cog">Preferences</string>
+    <string name="options_help">"All grey fields accept inputs and change accordingly, which will update the table at the top and the averages calculation between defender and attacker. Most rules are generalised to their functionality. For example "Predator" is a "Extra attack on ⚅" rule. \n\nTab Reg 5+ and 6++ to expand their rows (check preferences).\n\nFor now models count is only used for checking for Blast(), Counter, Sergeant and Sep./Extra Wounds rules.\n\nYou should input the combined attacks of a weapon profile/unit you want to be calculated. The different tabs can be used for several inputs, which you can compare on the ABCD tab.\n\nI really hope this has a somewhat user friendly impression :)\n\nIf you have suggestions, ideas or think the math is wrong please contact me! You can find me lurking on the opr discord @Lheyling"</string>
+    <string name="options_customize">Coloring stuff!\n\nIf this is a feature people would like to have. I will set up preferences for coloring the table and inputs.</string>
+    <string name="options_info">Hello and welcome!\n(contact me on opr discord: @Lheyling)\n(hit the ? at the top for some guidance)\nThis little app calculates and compares the average outcome of attack profiles for you. It is crowded, but once you found all parameters it´s simple to use.\n\nPlease keep in mind that this can not tell you which weapon or unit is better than another. It cannot calculate what maximum potential a weapon has. For full context you might consider many things like any ranges, the table you play on or what scenario is played.\n\nFor some people, like me, juggling numbers is fun. Maybe you or people you play with do not like it. I kindly ask you to treat the results as a source to add fun, not conflict to onepagerules.\n\nlast implemented opr update v3.2.0\nOne Screen Averages version: 0.8  </string>
 </resources>
