@@ -643,7 +643,7 @@ fun WelcomeInfoOptions(sharedPref: SharedPreferences){
     }
 }
 
-@Composable // todo color options
+@Composable
 fun CustomizeColorsSharedPref () {
 }
 
